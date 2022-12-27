@@ -12,4 +12,4 @@ for i in range(300):
     pencolor(c)
     circle(i,90)
     lt(120)
-one()
+done()
