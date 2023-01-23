@@ -1,0 +1,4 @@
+Day, manth, year, skip, avg power
+01, 01, 2000, x676, 13 % crazy day!
+% we don't hav Jan 03rd
+04, 01, 2000, xfed, 55
